@@ -1,26 +1,26 @@
-# 🏆 6 Companies 90 Days Challenge  
+# 🏆 6 Companies 30 Days Challenge  
 
-Welcome to my **6 Companies 90 Days Challenge** repository! 🚀 This challenge is a comprehensive journey to tackle real-world coding problems inspired by top tech companies. By solving problems consistently, I aim to sharpen my skills and boost my preparation for technical interviews. 💻  
+Welcome to my **6 Companies 30 Days Challenge** repository! 🚀 This challenge is a focused journey to tackle real-world coding problems inspired by top tech companies. By solving problems consistently, I aim to sharpen my skills and boost my preparation for technical interviews. 💻  
 
 ---
 
 ## 📋 Challenge Overview  
 
-The challenge focuses on solving problems from six top tech companies over 90 days, divided into 15 days per company.  
+The challenge focuses on solving problems from six top tech companies over 30 days, divided into 5 days per company.  
 
 ### 📅 Plan  
-1️⃣ **Company 1**: Microsoft (Days 1–15)  
-2️⃣ **Company 2**: [] (Days 16–30)  
-3️⃣ **Company 3**: [] (Days 31–45)  
-4️⃣ **Company 4**: [] (Days 46–60)  
-5️⃣ **Company 5**: [] (Days 61–75)  
-6️⃣ **Company 6**: [] (Days 76–90)  
+1️⃣ **Company 1**: Microsoft (Days 1–5)  
+2️⃣ **Company 2**: [] (Days 6–10)  
+3️⃣ **Company 3**: [] (Days 11–15)  
+4️⃣ **Company 4**: [] (Days 16–20)  
+5️⃣ **Company 5**: [] (Days 21–25)  
+6️⃣ **Company 6**: [] (Days 26–30)  
 
 ---
 
 ## 🌟 Goals  
 
-- Solve **90 problems** in total (15 per company).  
+- Solve **60 problems** in total (10 per company).  
 - Focus on **Data Structures and Algorithms (DSA)** problems.  
 - Improve problem-solving speed and accuracy.  
 - Develop a strong coding habit by maintaining consistency.  
@@ -56,7 +56,7 @@ Feel free to share feedback or suggestions by opening an issue or pull request. 
 
 If you’re also taking this challenge, let’s connect and share our progress! 🌟  
 
-- **GitHub**: [https://github.com/Aditya6112](#)  
-- **LinkedIn**: [https://www.linkedin.com/in/aditya-raj-0253171ab/](#)  
+- **GitHub**: [https://github.com/Aditya6112](https://github.com/Aditya6112)  
+- **LinkedIn**: [https://www.linkedin.com/in/aditya-raj-0253171ab/](https://www.linkedin.com/in/aditya-raj-0253171ab/)  
 
 Happy Coding! 😊✨  
