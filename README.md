@@ -20,7 +20,7 @@ The challenge focuses on solving problems from six top tech companies over 30 da
 
 ## 🌟 Goals  
 
-- Solve **60 problems** in total (10 per company).  
+- Solve **90 problems** in total (15 per company).  
 - Focus on **Data Structures and Algorithms (DSA)** problems.  
 - Improve problem-solving speed and accuracy.  
 - Develop a strong coding habit by maintaining consistency.  
