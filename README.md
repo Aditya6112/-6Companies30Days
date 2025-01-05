@@ -10,7 +10,7 @@ The challenge focuses on solving problems from six top tech companies over 30 da
 
 ### 📅 Plan  
 1️⃣ **Company 1**: Microsoft (Days 1–5)  
-2️⃣ **Company 2**: [] (Days 6–10)  
+2️⃣ **Company 2**: Amazon (Days 6–10)  
 3️⃣ **Company 3**: [] (Days 11–15)  
 4️⃣ **Company 4**: [] (Days 16–20)  
 5️⃣ **Company 5**: [] (Days 21–25)  
