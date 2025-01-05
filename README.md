@@ -37,8 +37,8 @@ The challenge focuses on solving problems from six top tech companies over 30 da
 
 ## 🏅 Completed Companies  
 
-1. **[Microsoft]**: 🕒  
-2. **[]**: ❌  
+1. **[Microsoft]**: ✅
+2. **[]**: 🕒
 3. **[]**: ❌  
 4. **[]**: ❌  
 5. **[]**: ❌  
