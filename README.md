@@ -30,7 +30,7 @@ The challenge focuses on solving problems from six top tech companies over 30 da
 ## 🛠️ Tools and Technologies  
 
 - **Language**: [C++]  
-- **Platform**: [LeetCode]  
+- **Platforms**: [LeetCode, GeeksForGeeks]  
 - **Editor**: [VS Code]  
 
 ---
