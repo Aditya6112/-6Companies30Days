@@ -14,7 +14,7 @@ The challenge focuses on solving problems from six top tech companies over 30 da
 3️⃣ **Company 3**: Wallmart (Days 11–15)  
 4️⃣ **Company 4**: Google (Days 16–20)  
 5️⃣ **Company 5**: Atlassian (Days 21–25)  
-6️⃣ **Company 6**: [] (Days 26–30)  
+6️⃣ **Company 6**: Goldman Sachs (Days 26–30)  
 
 ---
 
@@ -42,7 +42,7 @@ The challenge focuses on solving problems from six top tech companies over 30 da
 3. **[Wallmart]**: ✅  
 4. **[Google]**: ✅  
 5. **[Atlassian]**: 🕒  
-6. **[]**: ❌  
+6. **[Goldman Sachs]**: ❌  
 
 ---
 
